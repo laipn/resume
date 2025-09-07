@@ -1,10 +1,10 @@
 This repository contains laipn's resume in markdown form.  Copy and paste the markdown below into https://markdownresume.app. 
 
 
-# John Doe
+# Lai Nguyen
 
-**Frontend Developer**
-Amsterdam, Netherlands | johndoe@example.com | +31 6 12345678 | (https://linkedin.com/in/johndoe)\[LinkedIn]
+**Computer Engineer**
+California, United States | johndoe@example.com | +31 6 12345678 | (https://linkedin.com/in/johndoe)\[LinkedIn]
 
 ***
 
