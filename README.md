@@ -1,3 +1,6 @@
+
+This repository contains laipn's resume in markdown form.  Copy and paste the markdown below into <https://markdownresume.app>.
+
 # Lai Nguyen
 
 See [github.com/laipn/resume](http://github.com/laipn/resume) for markdown version of this resume.  It has click-able links.
