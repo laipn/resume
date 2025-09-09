@@ -6,7 +6,7 @@ This repository contains laipn's resume in markdown form.  Copy and paste the ma
 See [github.com/laipn/resume](http://github.com/laipn/resume) for markdown version of this resume.  It has click-able links.
 
 **Computer Engineer**
-California, United States | <Lai.Phu.Nguyen@gmail.com> | +1 (512) 256-3232 | (<https://www.linkedin.com/in/laipn)\[LinkedIn>]
+California, United States | <Lai.Phu.Nguyen@gmail.com> | +1 (512) 256-3232
 
 ## Experience
 
@@ -16,7 +16,7 @@ California, United States | <Lai.Phu.Nguyen@gmail.com> | +1 (512) 256-3232 | (<h
 **Site Reliability Engineer at Google ([Borg](https://research.google/pubs/large-scale-cluster-management-at-google-with-borg/))**
 *Sunnyvale, California | Jan 2016 – Feb 2025 | 9 years*
 
-* Worked primarily with Google Borg (internal Kubernetes equivalent) Control Plane and [Node](https://kubernetes.io/docs/concepts/overview/components/#node-components) teams.
+* Worked primarily with Google Borg (Kubernetes equivalent) Control Plane and [Node](https://kubernetes.io/docs/concepts/overview/components/#node-components) teams.
 * Created "First-Class Metrics". FCM formalizes "[Service Level Objectives](https://sre.google/sre-book/service-level-objectives/)" into working code used to monitor and gate all host-level software (e.g. kernel, system [software-packages](https://en.wikipedia.org/wiki/Package_manager)) at Google.
 * Introduced concept of "experimental" **machine** [error-budget](https://cloud.google.com/blog/products/management-tools/sre-error-budgets-and-maintenance-windows): The amount of machine footprint lent to developers in order to pursue long-running risky host-level experiments (e.g. [IPv6](https://en.wikipedia.org/wiki/IPv6)). Established oversight committee to ensure the budget was used effectively.
 * Established the SRE methodology to introduce new server platforms (["AMD Zen 2"](https://en.wikipedia.org/wiki/Zen_2), ["Intel Skylake"](https://en.wikipedia.org/wiki/Skylake_(microarchitecture)) and onward) into Google production.
@@ -30,7 +30,7 @@ California, United States | <Lai.Phu.Nguyen@gmail.com> | +1 (512) 256-3232 | (<h
 *Ottawa, Ontario | June 2010 – Dec 2015 | 6 years*
 
 * Worked primarily in Garbage Collection team. Developed: [NUMA-aware](https://ieeexplore.ieee.org/document/8498195) garbage collection algorithms,  PowerPC "[read barrier"](https://content.ikr.uni-stuttgart.de/en/Content/Publications/Archive/Me_ismm22_36512.pdf) instructions and [region-based](https://github.com/BlendedFeelings/software/blob/main/memory-management/garbage-collection/region-based-garbage-collection.md) garbage collection.
-* Worked on [Reliability, Availability, Serviceability](https://en.wikipedia.org/wiki/Reliability,_availability_and_serviceability) team, as developer support for customer issues. Work includes: [Core-File](https://en.wikipedia.org/wiki/Core_dump) inspection, [Linux performance](https://www.brendangregg.com/linuxperf.html) analysis.
+* Worked on [Reliability, Availability, Serviceability](https://en.wikipedia.org/wiki/Reliability,_availability_and_serviceability) team, as L3 developer support for customer issues. Work includes: [Core-File](https://en.wikipedia.org/wiki/Core_dump) inspection, [Linux performance](https://www.brendangregg.com/linuxperf.html) analysis.
 
 **Intern at [Object Technology International](https://en.wikipedia.org/wiki/Object_Technology_International)**
 *Ottawa, Ontario | June 2021 – May 2022 | 1 year*
@@ -43,15 +43,15 @@ California, United States | <Lai.Phu.Nguyen@gmail.com> | +1 (512) 256-3232 | (<h
 **Company Fit Interview**
 *Question and rubrics to decide if a company is a good fit for you.*
 
-* See [laipn.github.io/company-fit](http://laipn.github.io/company-fit)
+* See [laipn.github.io/company-fit](http://laipn.github.io/company-fit).
 * A ["structured"](https://pmc.ncbi.nlm.nih.gov/articles/PMC9553626/) company-fit interview process designed to remove bias when choosing prospective companies.
 * Also provides prospective companies a way to see if I am a good fit for them.
 
 **Docker Media Server**
-*A home media-server providing a netflix-like experience with media served from torrent/usenet clients*
+*Provides a netflix-like experience with media served from torrent/usenet clients*
 
 * See [github.com/laipn/docker-media-server](http://github.com/laipn/docker-media-server).
-* Integrates ~12 different services running inside a docker-ized network.  Security implement with Oauth2 and Traefik as reverse-proxy.
+* Integrates ~12 different services running inside a docker-ized network. Security implemented with Oauth2 and Traefik as reverse-proxy.
 * Demonstrates working knowledge of modern deployment and production practices.
 
 ***
@@ -59,9 +59,9 @@ California, United States | <Lai.Phu.Nguyen@gmail.com> | +1 (512) 256-3232 | (<h
 ## Skills
 
 * **Programming Languages**
-  * **Fluent**: Python, C
+  * **Fluent** *(has written production code in)*: Python, C
   * **Intermediate** *(has written code in)*: C++, Java, Bash
-  * **Basic** *(can read some)*: Go
+  * **Basic** *(has read some code in)*: Go
 * *Wish I knew more of*: Rust, Haskell, Machine Learning
 
 ***
@@ -83,4 +83,5 @@ California, United States | <Lai.Phu.Nguyen@gmail.com> | +1 (512) 256-3232 | (<h
 
 ## Interests
 
-* **Hobbies**: Home Automation (<https://laipn.duckdns.org:8123>, user/pass: borg-sre/borg-sre), amateur electrical engineering (fixing appliances, soldering, rigging speakers, LEDs, micro-controllers, etc)
+* [Home Automation](https://en.wikipedia.org/wiki/Home_Assistant): <https://laipn.duckdns.org:8123> user/pass: borg-sre/borg-sre
+* Amateur electrical engineering: Fixing appliances, soldering, rigging speakers, LEDs, micro-controllers, etc
