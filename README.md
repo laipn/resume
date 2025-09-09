@@ -1,4 +1,3 @@
-
 This repository contains laipn's resume in markdown form.  Copy and paste the markdown below into <https://markdownresume.app>.
 
 # Lai Nguyen
@@ -16,7 +15,7 @@ See [github.com/laipn/resume](http://github.com/laipn/resume) for markdown versi
 *Mesa, Arizona | March 2025 – September | 6 months*
 
 **Site Reliability Engineer at Google ([Borg](https://research.google/pubs/large-scale-cluster-management-at-google-with-borg/))**
-*Sunnyvale, California | Jan 2016 – Feb 2025 | 9 years*
+*Mountain View, California | Jan 2016 – Feb 2025 | 9 years*
 
 * Worked primarily with Google Borg (Kubernetes equivalent) Control Plane and [Node](https://kubernetes.io/docs/concepts/overview/components/#node-components) teams.
 * Created "First-Class Metrics". FCM formalizes "[Service Level Objectives](https://sre.google/sre-book/service-level-objectives/)" into working code used to monitor and gate all host-level software (e.g. kernel, system [software-packages](https://en.wikipedia.org/wiki/Package_manager)) at Google.
@@ -39,7 +38,7 @@ See [github.com/laipn/resume](http://github.com/laipn/resume) for markdown versi
 ***
 
 **Intern at [Object Technology International](https://en.wikipedia.org/wiki/Object_Technology_International)**
-*Ottawa, Ontario | June 2021 – May 2022 | 1 year*
+*Ottawa, Ontario | Jan 2008 – Jan 2009 | 1 year*
 
 * Developed [Smalltalk](https://en.wikipedia.org/wiki/Smalltalk) ([Eclipse](https://en.wikipedia.org/wiki/Eclipse_(software))) IDE tooling.
 * Developed inline assembly code generation infrastructure for building [JNI](https://en.wikipedia.org/wiki/Java_Native_Interface) [call stacks](https://en.wikipedia.org/wiki/Call_stack).
