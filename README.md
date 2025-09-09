@@ -1,15 +1,9 @@
-This repository contains laipn's resume in markdown form.  Copy and paste the markdown below into <https://markdownresume.app>.
-
 # Lai Nguyen
-
-**Computer Engineer**
-California, United States | <Lai.Phu.Nguyen@gmail.com> | +1 (512) 256-3232 | (<https://www.linkedin.com/in/laipn)\[LinkedIn>]
-
-***
 
 See [github.com/laipn/resume](http://github.com/laipn/resume) for markdown version of this resume.  It has click-able links.
 
-***
+**Computer Engineer**
+California, United States | <Lai.Phu.Nguyen@gmail.com> | +1 (512) 256-3232 | (<https://www.linkedin.com/in/laipn)\[LinkedIn>]
 
 ## Experience
 
@@ -44,7 +38,7 @@ See [github.com/laipn/resume](http://github.com/laipn/resume) for markdown versi
 ## Projects
 
 **Company Fit Interview**
-*Question and rubrics to use when deciding if a company is a good fit for you.*
+*Question and rubrics to decide if a company is a good fit for you.*
 
 * See [laipn.github.io/company-fit](http://laipn.github.io/company-fit)
 * A ["structured"](https://pmc.ncbi.nlm.nih.gov/articles/PMC9553626/) company-fit interview process designed to remove bias when choosing prospective companies.
