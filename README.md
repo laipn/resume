@@ -3,7 +3,7 @@ This repository contains laipn's resume in markdown form.  Copy and paste the ma
 # Lai Nguyen
 
 **Computer Engineer**
-California, United States | <Lai.Phu.Nguyen@gmail.com> | +1 (512) 256-3232
+California, United States (*Relocation Friendly*) | <Lai.Phu.Nguyen@gmail.com> | +1 (512) 256-3232
 
 See [github.com/laipn/resume](http://github.com/laipn/resume) for markdown version of this resume.  It has click-able links.
 
@@ -25,6 +25,7 @@ See [github.com/laipn/resume](http://github.com/laipn/resume) for markdown versi
 * SRE lead for "Tiered main memory" initiatives. Memory technologies includes: DRAM->Flash memory-swapping, Intel [3D Xpoint](https://en.wikipedia.org/wiki/3D_XPoint) replacement [DIMMs](https://en.wikipedia.org/wiki/DIMM), [CXL.mem](https://en.wikipedia.org/wiki/Compute_Express_Link) PCIe devices sharing memory bus, kernel-based [compressed memory](https://wiki.archlinux.org/title/Zswap) swapping.
 * Developed Machine Learning SLOs for Google [Tensor Processing Units](https://en.wikipedia.org/wiki/Tensor_Processing_Unit), ["virtual" CPU](https://cloud.google.com/compute/docs/cpu-platforms) performance SLOs, etc.
 * Production 24/7 production (paging) on-call with 15min SLO.  Mitigated or stopped >5 major incidents seen in the [news](https://status.cloud.google.com/incidents/dS9ps52MUnxQfyDGPfkY).
+* Worked with data scientists to develop statistical methodology to optimize machine performance.
 * Contributions: Google Python [Style Guide](https://google.github.io/styleguide/pyguide.html#doc-function-args), Google Engineering Code of Ethics, SRE document confidentiality policy.
   
 ***
