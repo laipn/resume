@@ -99,5 +99,5 @@ _University of Alberta | 2005 – 2010_
 
 ## Interests
 
-- [Home Automation](https://en.wikipedia.org/wiki/Home_Assistant): <https://laipn.duckdns.org:8123> user/pass: borg-sre/borg-sre
+- [Home Automation](https://en.wikipedia.org/wiki/Home_Assistant): <https://laipn.duckdns.org:8123> user/pass: guest/guest
 - Amateur electrical engineering: Fixing appliances, soldering, rigging speakers, LEDs, micro-controllers, etc
