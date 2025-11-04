@@ -50,19 +50,19 @@ _Ottawa, Ontario | Jan 2008 – Jan 2009 | 1 year_
 
 ## Projects
 
-**Company Fit Interview**
-_Question and rubrics to decide if a company is a good fit for you._
-
-- See [laipn.github.io/company-fit](http://laipn.github.io/company-fit).
-- A ["structured"](https://pmc.ncbi.nlm.nih.gov/articles/PMC9553626/) company-fit interview process designed to remove bias when choosing prospective companies.
-- Also provides prospective companies a way to see if I am a good fit for them.
-
 **Docker Media Server**
 _Provides a netflix-like experience with media served from torrent/usenet clients_
 
 - See [github.com/laipn/docker-media-server](http://github.com/laipn/docker-media-server).
 - Integrates ~12 different services running inside a docker-ized network. Security implemented with Oauth2 and Traefik as reverse-proxy.
 - Demonstrates working knowledge of modern deployment and production practices.
+
+**Company Fit Interview**
+_Question and rubrics to decide if a company is a good fit for you._
+
+- See [laipn.github.io/company-fit](http://laipn.github.io/company-fit).
+- A ["structured"](https://pmc.ncbi.nlm.nih.gov/articles/PMC9553626/) company-fit interview process designed to remove bias when choosing prospective companies.
+- Also provides prospective companies a way to see if I am a good fit for them.
 
 ---
 
