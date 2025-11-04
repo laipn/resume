@@ -35,8 +35,9 @@ _Mountain View, California | Jan 2016 – Feb 2025 | 9 years_
 **[J9](https://en.wikipedia.org/wiki/OpenJ9) Java VM Software Developer at IBM**
 _Ottawa, Ontario | June 2010 – Dec 2015 | 6 years_
 
-- Worked primarily in Garbage Collection team. Developed: [NUMA-aware](https://ieeexplore.ieee.org/document/8498195) garbage collection algorithms, PowerPC "[read barrier"](https://content.ikr.uni-stuttgart.de/en/Content/Publications/Archive/Me_ismm22_36512.pdf) instructions and [region-based](https://github.com/BlendedFeelings/software/blob/main/memory-management/garbage-collection/region-based-garbage-collection.md) garbage collection.
-- Worked on [Reliability, Availability, Serviceability](https://en.wikipedia.org/wiki/Reliability,_availability_and_serviceability) team, as L3 developer support for customer issues. Work includes: [Core-File](https://en.wikipedia.org/wiki/Core_dump) inspection, [Linux performance](https://www.brendangregg.com/linuxperf.html) analysis.
+- Worked primarily in Garbage Collection and Just-in-time compilation teams.
+- Developed: [NUMA-aware](https://ieeexplore.ieee.org/document/8498195) garbage collection algorithms, PowerPC "[read barrier"](https://content.ikr.uni-stuttgart.de/en/Content/Publications/Archive/Me_ismm22_36512.pdf) instructions and [region-based](https://github.com/BlendedFeelings/software/blob/main/memory-management/garbage-collection/region-based-garbage-collection.md) garbage collection.
+- Worked on [Reliability, Availability, Serviceability](https://en.wikipedia.org/wiki/Reliability,_availability_and_serviceability) team, as L3 developer support for root-causing customer issues. Work includes: [Core-File](https://en.wikipedia.org/wiki/Core_dump) inspection, [Linux performance](https://www.brendangregg.com/linuxperf.html) analysis.
 
 ---
 
