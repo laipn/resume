@@ -70,8 +70,8 @@ _Question and rubrics to decide if a company is a good fit for you._
 ## Skills
 
 - **Programming Languages**
-  - **Fluent** _(has written production code in)_: Python, C
-  - **Intermediate** _(has written code in)_: C++, Java, Bash, Yaml, Protobufs
+  - **Fluent** _(has written production code in)_: Python, C, C++
+  - **Intermediate** _(has written code in)_: Java, Bash, Yaml, Protobufs
   - **Basic** _(has read some code in)_: Go
 - _Wish I knew more of_: Rust, Haskell, Machine Learning
 
