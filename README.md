@@ -19,16 +19,16 @@ _Mountain View, California | Jan 2016 – Feb 2025 | 9 years_
 
 - Worked primarily with Google Borg (Kubernetes equivalent) Control Plane and [Node](https://kubernetes.io/docs/concepts/overview/components/#node-components) teams.
 - Created "First-Class Metrics". FCM formalizes "[Service Level Objectives](https://sre.google/sre-book/service-level-objectives/)" into working code used to monitor and gate all host-level software (e.g. kernel, system [software-packages](https://en.wikipedia.org/wiki/Package_manager)) at Google.
+- Developed host-level Machine Learning SLOs for Google [Tensor Processing Units](https://en.wikipedia.org/wiki/Tensor_Processing_Unit), ["virtual" CPU](https://cloud.google.com/compute/docs/cpu-platforms) performance SLOs, etc.
 - Wrote production code (C++, python, golang) to cross-correlate customer metrics with the machine software and hardware they run on. Used automatically on every incident response.
 - Debugged customer-issues end-to-end .  From a user's reported slow http request to the specific network-interface-controller kernel software causing the issue.
+- Worked with data scientists to develop statistical methodology to match all production workloads with optimal hardware capital expenditures
+- SRE lead for "[Tiered main memory](https://dl.acm.org/doi/10.1145/3689031.3717471)" initiatives. Memory technologies includes: DRAM->Flash memory-swapping, Intel [3D Xpoint](https://en.wikipedia.org/wiki/3D_XPoint) replacement [DIMMs](https://en.wikipedia.org/wiki/DIMM), [CXL.mem](https://en.wikipedia.org/wiki/Compute_Express_Link) PCIe devices sharing memory bus, kernel-based [compressed memory](https://wiki.archlinux.org/title/Zswap) swapping.
+- Production 24/7 production (paging) on-call with 15min SLO. Mitigated or stopped >5 major incidents seen in the [news](https://status.cloud.google.com/incidents/dS9ps52MUnxQfyDGPfkY).
+- Contributions: Google Python [Style Guide](https://google.github.io/styleguide/pyguide.html#doc-function-args), Google Engineering Code of Ethics, SRE document confidentiality policy.
 - Introduced concept of "experimental" _machine_ [error-budget](https://cloud.google.com/blog/products/management-tools/sre-error-budgets-and-maintenance-windows): The amount of machine footprint lent to developers in order to pursue long-running risky host-level experiments (e.g. [IPv6](https://en.wikipedia.org/wiki/IPv6)). Established oversight committee to ensure the budget was used effectively.
 - Established the SRE methodology to introduce new server platforms (["AMD Zen 2"](https://en.wikipedia.org/wiki/Zen_2), ["Intel Skylake"](<https://en.wikipedia.org/wiki/Skylake_(microarchitecture)>) and onward) into Google production.
 - Established the SRE Methodology to introduce [compiler](https://github.com/google/tcmalloc) and [ISA](https://en.wikipedia.org/wiki/Instruction_set_architecture) (e.g. [ARM](https://cloud.google.com/compute/docs/instances/arm-on-compute)) changes to all Google production code.
-- SRE lead for "[Tiered main memory](https://dl.acm.org/doi/10.1145/3689031.3717471)" initiatives. Memory technologies includes: DRAM->Flash memory-swapping, Intel [3D Xpoint](https://en.wikipedia.org/wiki/3D_XPoint) replacement [DIMMs](https://en.wikipedia.org/wiki/DIMM), [CXL.mem](https://en.wikipedia.org/wiki/Compute_Express_Link) PCIe devices sharing memory bus, kernel-based [compressed memory](https://wiki.archlinux.org/title/Zswap) swapping.
-- Developed Machine Learning SLOs for Google [Tensor Processing Units](https://en.wikipedia.org/wiki/Tensor_Processing_Unit), ["virtual" CPU](https://cloud.google.com/compute/docs/cpu-platforms) performance SLOs, etc.
-- Production 24/7 production (paging) on-call with 15min SLO. Mitigated or stopped >5 major incidents seen in the [news](https://status.cloud.google.com/incidents/dS9ps52MUnxQfyDGPfkY).
-- Worked with data scientists to develop statistical methodology to optimize machine performance.
-- Contributions: Google Python [Style Guide](https://google.github.io/styleguide/pyguide.html#doc-function-args), Google Engineering Code of Ethics, SRE document confidentiality policy.
 
 ---
 
