@@ -17,7 +17,7 @@ _Mesa, Arizona | March 2025 – September | 6 months_
 **Site Reliability Engineer at Google ([Borg](https://research.google/pubs/large-scale-cluster-management-at-google-with-borg/))**
 _Mountain View, California | Jan 2016 – Feb 2025 | 9 years_
 
-- Worked on: Google Borg (Kubernetes equivalent) [Node](https://kubernetes.io/docs/concepts/overview/components/#node-components), server platform and compute performance teams.
+- Worked primarily on: Google Borg (Kubernetes equivalent) [Node](https://kubernetes.io/docs/concepts/overview/components/#node-components), Bare-Metal Servers and Compute Performance.
 - Created "First-Class Metrics". FCM formalizes customer-specified "[Service Level Objectives](https://sre.google/sre-book/service-level-objectives/)" into working code used to monitor and gate the introduction of all host-level software (e.g. kernel, system [software-packages](https://en.wikipedia.org/wiki/Package_manager)) and hardware pipelines at Google.  Standardized work that previously ~10 teams had to do individually.
 - Developed host-level Machine Learning SLOs for Google [Tensor Processing Units](https://en.wikipedia.org/wiki/Tensor_Processing_Unit), ["virtual" CPU](https://cloud.google.com/compute/docs/cpu-platforms) performance SLOs, etc.
 - Wrote production code (C++, python, golang) to cross-correlate customer metrics with the machine software and hardware they run on. Used automatically on every incident response.
