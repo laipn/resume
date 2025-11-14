@@ -71,13 +71,13 @@ _Question and rubrics to decide if a company is a good fit for you._
 
 - **Programming Languages**
   - **Fluent** _(has written production code in)_: Python, C, C++
-  - **Intermediate** _(has written code in)_: Java, Bash, Yaml, Protobufs
+  - **Intermediate** _(has written code in)_: Java, Bash, Yaml, Protocol Buffers
   - **Basic** _(has read some code in)_: Go
 - _Wish I knew more of_: Rust, Haskell, Machine Learning
 
 - **Frameworks/Tools**
-  - **Production Use**: Bazel (Skylark), Git, Colab notebooks, gRPC, perf, GDB,
-  - **Personal Use**: Docker, Dockerfiles, Pantheon/Prometheus production monitoring, eBPF
+  - **Production Use**: Bazel (Skylark), Git, Colab notebooks, gRPC, perf, GDB, SQL (BigQuery), linux perf tools, linux containers, Language runtime (e.g. Java Virtual machine) internals, Kubernetes (Google equivalent)
+  - **Personal Use**: Docker, Dockerfiles, Pantheon/Prometheus production monitoring, eBPF, Traefik, 
 
 ---
 
