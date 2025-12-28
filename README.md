@@ -12,7 +12,7 @@ See [github.com/laipn/resume](http://github.com/laipn/resume) for markdown versi
 ## Experience
 
 **Sys Admin at [Paws 2 Read](https://www.paws2read.org/)** (**_Charity_**)
-_Mesa, Arizona | March 2025 – October 2025 | 7 months_
+_Mesa, Arizona | March 2025 – Present | 8 months_
 
 **Site Reliability Engineer at Google ([Borg](https://research.google/pubs/large-scale-cluster-management-at-google-with-borg/))**
 _Mountain View, California | January 2016 – March 2025 | 9 years 2 months_
