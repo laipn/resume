@@ -12,7 +12,7 @@ See [github.com/laipn/resume](http://github.com/laipn/resume) for markdown versi
 ## Experience
 
 **Sys Admin at [Paws 2 Read](https://www.paws2read.org/)** (**_Charity_**)
-_Mesa, Arizona | March 2025 – Present | 8 months_
+_Mesa, Arizona | March 2025 – Present | 9 months_
 
 **Site Reliability Engineer at Google ([Borg](https://research.google/pubs/large-scale-cluster-management-at-google-with-borg/))**
 _Mountain View, California | January 2016 – March 2025 | 9 years 2 months_
@@ -77,8 +77,8 @@ _Question to decide if a company is a good fit._
 - _Wish I knew more of_: Rust, Haskell, Machine Learning
 
 - **Frameworks/Tools**
-  - **Production Use**: Bazel (Skylark), Django, Git, Colab notebooks, gRPC, perf, GDB, SQL (BigQuery), linux perf tools, linux containers, Language runtime (e.g. Java Virtual machine) internals, Kubernetes (Google equivalent)
-  - **Personal Use**: Docker, Dockerfiles, Pantheon/Prometheus production monitoring, eBPF, Traefik,
+  - **Production Use**: Bazel, Django, Git, Colab notebooks, gRPC, perf, GDB, SQL (BigQuery), linux perf tools, linux containers, Language runtime (e.g. Java Virtual machine) internals, Kubernetes, Jenkins
+  - **Personal Use**: Docker, Dockerfiles, Prometheus, eBPF, Traefik, Helm Charts, Data-Dog, Open Telemetry, Puppet, Terraform
 
 ---
 
