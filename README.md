@@ -50,6 +50,20 @@ _Ottawa, Ontario | January 2008 – January 2009 | 1 year_
 
 ---
 
+## Skills
+
+- **Programming Languages**
+  - **Fluent** _(has written production code in)_: Python, C, C++
+  - **Intermediate** _(has written code in)_: Java, Bash, [YAML](https://en.wikipedia.org/wiki/YAML), [Protocol Buffers](https://en.wikipedia.org/wiki/Protocol_Buffers)
+  - **Basic** _(has read some code in)_: Go
+- _Wish I knew more of_: Rust, Haskell
+
+- **Frameworks/Tools**
+  - **Production Use**: [Bazel](https://en.wikipedia.org/wiki/Bazel_(software)), [Django](https://www.djangoproject.com/), [Git](https://en.wikipedia.org/wiki/Git), [Jupyter Notebooks](https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook), [gRPC](https://en.wikipedia.org/wiki/GRPC), [perf](https://en.wikipedia.org/wiki/Perf_(Linux)), [GDB](https://en.wikipedia.org/wiki/GNU_Debugger), SQL ([BigQuery](https://en.wikipedia.org/wiki/BigQuery)), linux [performance](https://www.brendangregg.com/linuxperf.html), linux [cgroups](https://en.wikipedia.org/wiki/Cgroups), Language Runtime internals ([JVM](https://en.wikipedia.org/wiki/Java_virtual_machine), [CPython](https://en.wikipedia.org/wiki/CPython), etc), [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes), [Jenkins](https://en.wikipedia.org/wiki/Jenkins_(software))
+  - **Personal Use**: [Docker](https://en.wikipedia.org/wiki/Docker_(software)), Dockerfiles, [Prometheus](https://en.wikipedia.org/wiki/Prometheus_(software)), [eBPF](https://en.wikipedia.org/wiki/EBPF), [Traefik](https://en.wikipedia.org/wiki/Traefik_Proxy), [Helm](https://en.wikipedia.org/wiki/Helm_(package_manager)), [Data-Dog](https://docs.datadoghq.com/), [Open Telemetry](https://opentelemetry.io/docs/what-is-opentelemetry/), [Puppet](https://en.wikipedia.org/wiki/Puppet_(software)), [Terraform](https://en.wikipedia.org/wiki/Terraform_(software))
+
+---
+
 ## Projects
 
 **Docker Media Server**
@@ -65,20 +79,6 @@ _Question to decide if a company is a good fit._
 - See [github.com/laipn/company-questions](http://github.com/laipn/company-questions).
 - A ["structured"](https://pmc.ncbi.nlm.nih.gov/articles/PMC9553626/) company-fit interview process designed to remove bias when choosing prospective companies.
 - Provides prospective companies a way to see if I am a good fit for them.
-
----
-
-## Skills
-
-- **Programming Languages**
-  - **Fluent** _(has written production code in)_: Python, C, C++
-  - **Intermediate** _(has written code in)_: Java, Bash, [YAML](https://en.wikipedia.org/wiki/YAML), [Protocol Buffers](https://en.wikipedia.org/wiki/Protocol_Buffers)
-  - **Basic** _(has read some code in)_: Go
-- _Wish I knew more of_: Rust, Haskell
-
-- **Frameworks/Tools**
-  - **Production Use**: [Bazel](https://en.wikipedia.org/wiki/Bazel_(software)), [Django](https://www.djangoproject.com/), [Git](https://en.wikipedia.org/wiki/Git), [Jupyter Notebooks](https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook), [gRPC](https://en.wikipedia.org/wiki/GRPC), [perf](https://en.wikipedia.org/wiki/Perf_(Linux)), [GDB](https://en.wikipedia.org/wiki/GNU_Debugger), SQL ([BigQuery](https://en.wikipedia.org/wiki/BigQuery)), linux [performance](https://www.brendangregg.com/linuxperf.html), linux [cgroups](https://en.wikipedia.org/wiki/Cgroups), Language Runtime internals ([JVM](https://en.wikipedia.org/wiki/Java_virtual_machine), [CPython](https://en.wikipedia.org/wiki/CPython), etc), [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes), [Jenkins](https://en.wikipedia.org/wiki/Jenkins_(software))
-  - **Personal Use**: [Docker](https://en.wikipedia.org/wiki/Docker_(software)), Dockerfiles, [Prometheus](https://en.wikipedia.org/wiki/Prometheus_(software)), [eBPF](https://en.wikipedia.org/wiki/EBPF), [Traefik](https://en.wikipedia.org/wiki/Traefik_Proxy), [Helm](https://en.wikipedia.org/wiki/Helm_(package_manager)), [Data-Dog](https://docs.datadoghq.com/), [Open Telemetry](https://opentelemetry.io/docs/what-is-opentelemetry/), [Puppet](https://en.wikipedia.org/wiki/Puppet_(software)), [Terraform](https://en.wikipedia.org/wiki/Terraform_(software))
 
 ---
 
