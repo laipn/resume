@@ -66,6 +66,12 @@ _Ottawa, Ontario | January 2008 – January 2009 | 1 year_
 
 ## Projects
 
+**Code Templates: An idiomatic solution to Meta-Configuration**
+
+- There's a common pattern in software deployment where you have a configuration file (Docker Compose files, Kubernetes manifests, Traefik, etc.) that describes how to set up and configure an application.
+- [Helm Charts](https://helm.sh/docs/chart_template_guide/values_files) ([example](https://github.com/docker/awesome-compose/blob/master/elasticsearch-logstash-kibana/compose.yaml)), [Env Files](https://man7.org/linux/man-pages/man1/envsubst.1.html) ([example](https://www.baeldung.com/linux/envsubst-command)) and [Jinja](https://github.com/pallets/jinja) are example solutions to this problem.
+- In any production setup of non-trivial complexity, people inevitably decide to code a way to generate that configuration. This project provides an idiomatic solution to the "config generation" problem.
+
 **Docker Media Server**
 _Provides a netflix-like experience with media served from torrent/usenet clients_
 
