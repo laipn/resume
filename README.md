@@ -3,6 +3,7 @@ This repository contains laipn's resume in markdown form. Copy and paste the mar
 # Lai Nguyen
 
 **Computer Engineer**
+
 California, United States (_Relocation Friendly_) | <Lai.Phu.Nguyen@gmail.com> | +1 (512) 256-3232
 
 See [github.com/laipn/resume](http://github.com/laipn/resume) for markdown version of this resume. It has click-able links.
