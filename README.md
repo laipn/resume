@@ -70,8 +70,7 @@ _Ottawa, Ontario | January 2008 – January 2009 | 1 year_
 **Code Templates: An idiomatic solution to Meta-Configuration**
 
 - See [github.com/laipn/meta-conf](https://github.com/laipn/meta-conf).
-- There's a common pattern in software deployment where you have a configuration file (Docker Compose files, Kubernetes manifests, Traefik, etc.) that describes how to set up and configure an application.
-- [Helm Charts](https://helm.sh/docs/chart_template_guide/values_files) ([example](https://github.com/docker/awesome-compose/blob/master/elasticsearch-logstash-kibana/compose.yaml)), [Env Files](https://man7.org/linux/man-pages/man1/envsubst.1.html) ([example](https://www.baeldung.com/linux/envsubst-command)) and [Jinja](https://github.com/pallets/jinja) are example solutions to this problem.
+- There's a common pattern in software deployment where you have a configuration file (Docker Compose files, Kubernetes manifests, Traefik, etc.) that describes how to set up and configure an application. [Helm Charts](https://helm.sh/docs/chart_template_guide/values_files) ([example](https://github.com/docker/awesome-compose/blob/master/elasticsearch-logstash-kibana/compose.yaml)), [Env Files](https://man7.org/linux/man-pages/man1/envsubst.1.html) ([example](https://www.baeldung.com/linux/envsubst-command)) and [Jinja](https://github.com/pallets/jinja) are examples.
 - In any production setup of non-trivial complexity, people inevitably decide to code a way to generate that configuration. This project provides an idiomatic solution to the "config generation" problem.
 
 **Docker Media Server**
@@ -79,14 +78,12 @@ _Provides a netflix-like experience with media served from torrent/usenet client
 
 - See [github.com/laipn/docker-media-server](http://github.com/laipn/docker-media-server).
 - Integrates ~12 different services running inside a docker-ized network. Security implemented with Oauth2 and Traefik as reverse-proxy.
-- Demonstrates working knowledge of modern deployment and production practices.
 
 **Company Question**
 _Question to decide if a company is a good fit._
 
 - See [github.com/laipn/company-questions](http://github.com/laipn/company-questions).
 - A ["structured"](https://pmc.ncbi.nlm.nih.gov/articles/PMC9553626/) company-fit interview process designed to remove bias when choosing prospective companies.
-- Provides prospective companies a way to see if I am a good fit for them.
 
 ---
 
