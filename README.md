@@ -96,6 +96,7 @@ _Question to decide if a company is a good fit._
 _University of Alberta | 2005 – 2010_
 
 - Magna cum laude
+- 3.8 / 4 GPA
 
 ---
 
